@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+# Angularmobileapps
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/angular-android/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+All in one handling with angular for build modern website or develope your android application .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![angular source code web app + android apk](https://1.bp.blogspot.com/-lUbAA5dwN6A/YX6c0WaxTOI/AAAAAAAARlo/EXwW_IXjhWYl327wDPpLPZOASEb-veL4QCLcBGAsYHQ/s1024/build%2Bandroid%2Bapplication%2Bwith%2Bangular%2Bwith%2Bsource%2Bcode%2Bfree%2Bdownload%2Bgratis.jpg)
 
-### Markdown
+How to install ?? read documentation : [https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html →](https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A display :
 
-```markdown
-Syntax highlighted code block
+![angular source code web app + android apk](https://1.bp.blogspot.com/-cV57GVN6hlI/YX6c0ukAawI/AAAAAAAARls/RYoeVQNIYrYv8gIqXhwrymDmHf5cUQ2ngCLcBGAsYHQ/s1360/Pembuatan%2Bwebsite%2Baplikasi%2Bandroid%2Ball%2Bin%2Bone.png)
 
-# Header 1
-## Header 2
-### Header 3
+Of course using bootstrap for responsive display for desktop mode for website app or mobile version for android application.
 
-- Bulleted
-- List
+![angular source code web app + android apk](https://1.bp.blogspot.com/-sAuWnAmTcp0/YX6c4HYE0iI/AAAAAAAARlw/Elq2Q5JbFdALw84hwYjSQ3oQ4x1ZyNiawCLcBGAsYHQ/s638/1and.png)
 
-1. Numbered
-2. List
+Here comes the android mobile version, with bootstrap it will always be perfect on many devices.
 
-**Bold** and _Italic_ and `Code` text
+![angular source code web app + android apk](https://1.bp.blogspot.com/-i_Y1MxTgZZk/YX6c4b2eU1I/AAAAAAAARl4/r1wq7MhZAbAtwC3QiVjcA0lhK8bL2jzVwCLcBGAsYHQ/s634/2and.png)
 
-[Link](url) and ![Image](src)
-```
+All in one modern website + android application just with angular .
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+----------------------------------------------------------------------------
 
-### Jekyll Themes
+How to install ?? read documentation : [https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html](https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/angular-android/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Demo web app here →](https://webandroid.vercel.app/)
 
-### Support or Contact
+Test APK download : [download android apk →](https://play.google.com/store/apps/details?id=com.axcora.angularmobileapp)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Another example web app and android application build using angular [download APK →](https://play.google.com/store/apps/details?id=com.axcora.bootstraposapp)
+
+-------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+-------------------------------------------------
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+-------------------------------------------------
+
+read documentation : [https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html →](https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html)
+
+Example website app : [Demo web app here →](https://webandroid.vercel.app/)
+
+Example APK download now : [download android apk →](https://play.google.com/store/apps/details?id=com.axcora.angularmobileapp)
+
+-------------------------------------------------
+
+
+### Buy me a coffee ☕️ ❤️  ✌🏻
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+
