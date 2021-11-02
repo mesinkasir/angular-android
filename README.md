@@ -24,7 +24,7 @@ All in one modern website + android application just with angular .
 
 How to install ?? read documentation : [https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html](https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html)
 
-Demo webapp : 
+[Demo web app here →](https://webandroid.vercel.app/)
 
 Test APK download : [download android apk →](https://play.google.com/store/apps/details?id=com.axcora.angularmobileapp)
 
@@ -73,7 +73,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 read documentation : [https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html →](https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html)
 
-Example website app : []()
+Example website app : [Demo web app here →](https://webandroid.vercel.app/)
 
 Example APK download now : [download android apk →](https://play.google.com/store/apps/details?id=com.axcora.angularmobileapp)
 
