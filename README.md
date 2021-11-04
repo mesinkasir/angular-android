@@ -19,7 +19,6 @@ Another example web app and android application build using angular [download AP
 
 ----------------------------------------------------------------------------
 
-
 A display :
 
 ![angular source code web app + android apk](https://1.bp.blogspot.com/-cV57GVN6hlI/YX6c0ukAawI/AAAAAAAARls/RYoeVQNIYrYv8gIqXhwrymDmHf5cUQ2ngCLcBGAsYHQ/s1360/Pembuatan%2Bwebsite%2Baplikasi%2Bandroid%2Ball%2Bin%2Bone.png)
