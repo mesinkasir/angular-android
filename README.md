@@ -12,10 +12,6 @@ How to install ?? read documentation : [https://www.hockeycomputindo.com/2021/10
 
 [Demo web app here →](https://webandroid.vercel.app/)
 
-Test APK download : [download android apk →](https://play.google.com/store/apps/details?id=com.axcora.angularmobileapp)
-
-Another example web app and android application build using angular [download APK →](https://play.google.com/store/apps/details?id=com.axcora.bootstraposapp)
-
 
 ----------------------------------------------------------------------------
 
@@ -39,9 +35,6 @@ How to install ?? read documentation : [https://www.hockeycomputindo.com/2021/10
 
 [Demo web app here →](https://webandroid.vercel.app/)
 
-Test APK download : [download android apk →](https://play.google.com/store/apps/details?id=com.axcora.angularmobileapp)
-
-Another example web app and android application build using angular [download APK →](https://play.google.com/store/apps/details?id=com.axcora.bootstraposapp)
 
 -------------------------------------------------
 
